@@ -2,7 +2,6 @@ git clone https://github.com/2005MohitInamdar/fastapi_practice
 
 in terminal:
 
-bash
 venv/Scripts/activate
 
 pip install -m requirements.txt
